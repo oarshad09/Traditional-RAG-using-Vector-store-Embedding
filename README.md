@@ -1,6 +1,6 @@
 # Traditional Vector RAG Application
 
-This repository contains a full-stack, 4-step Retrieval-Augmented Generation (RAG) application utilizing traditional vector embeddings. It was built as a comparison tool against vectorless chunking models (such as PageIndex).
+This repository contains a full-stack, 4-step Retrieval-Augmented Generation (RAG) application utilizing traditional vector embeddings.
 
 ## Architecture
 
