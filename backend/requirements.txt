@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-openai
+langchain-community
+docarray
+pypdf
+python-dotenv
+tiktoken
